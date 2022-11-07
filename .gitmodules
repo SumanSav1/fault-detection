@@ -1,0 +1,3 @@
+[submodule "sensor-fault-detection"]
+	path = sensor-fault-detection
+	url = https://github.com/avnyadav/sensor-fault-detection.git
